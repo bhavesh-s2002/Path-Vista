@@ -1,4 +1,4 @@
-# PathFinding-Algorithm-Path-visualizer
+https://github.com/bhavesh-s2002# PathFinding-Algorithm-Path-visualizer
 # Hello there!
 Welcome to my path-finding visualizer! Obiviously it's inspired from the Clement's original path-finding visualizer.
 For those who're new to this project, it's visualization tool to visualize classic graph algorithms like Dijsktra, A* and etc. I was fascinated to build my own visualization tool after going through Professor Robert Sedgewick Algorithms course from Princeton University in coursera. 
@@ -33,7 +33,7 @@ This is the result after executing a maze generation algorithm and path-finding 
 Pretty much the same as the standard react application, so all the usual react-scripts are available to your disposal. So, over here I restricted myself to the instructions to only the essentials.
 ## 1. Clone the repository or download the zip
 ```
-git clone https://github.com/chakshu71/PathFinding-Algorithm-Path-visualizer.git
+git clone https://github.com/bhavesh-s2002
 ```
 
 ## 2. Install the dependencies
